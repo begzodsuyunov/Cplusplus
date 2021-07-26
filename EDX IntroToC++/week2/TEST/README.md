@@ -13,3 +13,9 @@ The total is 6 dollars and 22 cents
 
 
 coinConverter.cpp
+
+Please enter the number of dollars: 
+2
+Please enter the number of cents: 
+37
+The coins are 9 quarters, 1 dimes, 0 nickels and 2 pennies
