@@ -19,3 +19,11 @@ Please enter the number of dollars:
 Please enter the number of cents: 
 37
 The coins are 9 quarters, 1 dimes, 0 nickels and 2 pennies
+
+BMI.cpp
+
+Please enter weight in kilograms:
+50
+Please enter height in meters:
+1.58
+BMI is 20.03
