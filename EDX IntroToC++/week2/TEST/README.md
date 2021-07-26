@@ -10,3 +10,6 @@ Please enter the number of nickels:
 Please enter the number of pennies: 
 17
 The total is 6 dollars and 22 cents
+
+
+coinConverter.cpp
