@@ -27,3 +27,12 @@ Please enter weight in kilograms:
 Please enter height in meters:
 1.58
 BMI is 20.03
+
+
+BMI_Imperial.cpp
+
+Please enter weight in pounds: 
+135
+Please enter height in inches: 
+71
+BMI is 18.83
